@@ -1,2 +1,8 @@
-# nepali-vehicle-number-detector
-This repository is created for detecting vehicle of nepali number plate using YOLOv8 and extracting the character information using easyOCR.
+# Nepali Vehicle Number Plate Detector 🇳🇵
+
+A Streamlit app for detecting Nepali vehicle number plates using YOLO and EasyOCR.
+
+## Run Locally
+```bash
+pip install -r requirements.txt
+streamlit run app.py
